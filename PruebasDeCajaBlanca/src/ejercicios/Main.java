@@ -16,11 +16,11 @@ public class Main {
 		
 		numero = dogma.nextInt();
 
-		System.out.println(suma.sumaNumeros(numero));
+		System.out.println(cuenta.cuentaImpares(numero));
 		
 		numero = dogma.nextInt();
 
-		System.out.println(cuenta.cuentaImpares(numero));
+		System.out.println(suma.sumaNumeros(numero));
 
 		dogma.close();
 	}
